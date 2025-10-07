@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Poller+One&display=swap');
+
+.titulo{
+    color: darkslategray;
+    font-size: 5rem;
+    font-family: "Poller One", sans-serif;
+}
+
+h1:hover {
+    cursor: pointer;
+}
+
+.active {
+    color: red;
+    font-size: 7rem;
+}
